@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://radicalpassive.com/works/</loc>
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/news/</loc>
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/office/</loc>
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/journal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/contacts/</loc>
+  </url>
+  
+  <url>
     <loc>https://radicalpassive.com/</loc>
     <priority>0</priority>
   </url>

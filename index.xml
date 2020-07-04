@@ -10,5 +10,23 @@
 	<atom:link href="https://radicalpassive.com/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Office</title>
+      <link>https://radicalpassive.com/office/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radicalpassive.com/office/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://radicalpassive.com/contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radicalpassive.com/contacts/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
