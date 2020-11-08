@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://radicalpassive.com/works/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/works/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/works/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/news/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/office/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/office/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/office/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/journal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/journal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/journal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/contacts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/contacts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/contacts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/tags/"
+                />
+  </url>
+  
+</urlset>

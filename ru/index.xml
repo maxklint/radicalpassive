@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Radical Passive</title>
-    <link>https://radicalpassive.com/</link>
+    <link>https://radicalpassive.com/ru/</link>
     <description>Recent content on Radical Passive</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://radicalpassive.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://radicalpassive.com/ru/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Office</title>
-      <link>https://radicalpassive.com/office/</link>
+      <title>Офис</title>
+      <link>https://radicalpassive.com/ru/office/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://radicalpassive.com/office/</guid>
+      <guid>https://radicalpassive.com/ru/office/</guid>
       <description></description>
     </item>
     
