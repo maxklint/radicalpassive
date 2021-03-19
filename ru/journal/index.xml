@@ -5,9 +5,16 @@
     <link>https://radicalpassive.com/ru/journal/</link>
     <description>Recent content in Журнал on Radical Passive</description>
     <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://radicalpassive.com/ru/journal/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://radicalpassive.com/ru/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Useless tree</title>
+      <link>https://radicalpassive.com/ru/journal/useless-tree/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://radicalpassive.com/ru/journal/useless-tree/</guid>
+      <description>Useless tree
+At one time Alexander Brodsky used to take photos of old garages, while John Pawson - of the sky. Both saw in it architectural value, albeit this value was personal. Perhaps if one wants to learn how to create simple and comprehensible design, first one has to learn to see beauty in the mundane, to understand the nature of these simple things: how the owners of those garages adapted the standard soviet structure to their needs or how atmospheric pollution in different regions changes the colour of sky.</description>
+    </item>
     
   </channel>
 </rss>

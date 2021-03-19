@@ -5,9 +5,34 @@
     <link>https://radicalpassive.com/news/</link>
     <description>Recent content in News on Radical Passive</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://radicalpassive.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>publication at design mate</title>
+      <link>https://radicalpassive.com/news/2020-11-26/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://radicalpassive.com/news/2020-11-26/</guid>
+      <description>Read the article at design-mate.ru</description>
+    </item>
     
-	<atom:link href="https://radicalpassive.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>publication at Chrysalis Mag</title>
+      <link>https://radicalpassive.com/news/2020-11-24/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://radicalpassive.com/news/2020-11-24/</guid>
+      <description>Read the article at chrysalismag.by</description>
+    </item>
     
+    <item>
+      <title>Opening of the exhibition “Touchable distance” at Y Gallery</title>
+      <link>https://radicalpassive.com/news/2020-10-29/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://radicalpassive.com/news/2020-10-29/</guid>
+      <description>We are happy to announce that the exhibition which we designed is now open.
+Read about the exhibition here or visit the event page on facebook: Y Gallery.</description>
+    </item>
     
   </channel>
 </rss>
