@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://radicalpassive.com/news/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -103,6 +103,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://radicalpassive.com/works/melancholy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/news/2021-03-19/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/news/2021-03-19/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/news/2021-03-19/"
                 />
   </url>
   
