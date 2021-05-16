@@ -5,20 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-        Office
+            Office
         </title>
     <link rel="icon" type="image/png" href="/favicon.png">
     
     <link rel="stylesheet" href="https://radicalpassive.com/css/style.min.css">
     
     <script src="https://radicalpassive.com/js/main.min.js"></script>
-
-    
-    <script async src="https://cdn.panelbear.com/analytics.js?site=JjaEkAPf6Jt"></script>
-    <script>
-        window.panelbear = window.panelbear || function () { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
-        panelbear('config', { site: 'JjaEkAPf6Jt' });
-    </script>
+    <script async defer data-domain="radicalpassive.com" src="https://plausible.io/js/plausible.js"></script>
 </head>
 
 <body onload="main()" >
@@ -74,23 +68,43 @@
 </header>
 
     <main>
-        
+    
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+      
 
 
 <div class="content">
     
     <div class="content__gallery">
-        
-        
+        <div class="gallery">
             
+
+            <div class="gallery__image gallery__image_left">
+                <img id="minigallery">
+            </div>
+
             
-            
-        
-        <div class="gallery"
-            gallery-images="https://radicalpassive.com/office/Office.jpg,https://radicalpassive.com/office/Office_huc9c449c472c251bd5b678930e402b2fa_2461728_0x500_resize_q75_box.jpg,https://radicalpassive.com/office/Office_huc9c449c472c251bd5b678930e402b2fa_2461728_0x1000_resize_q75_box.jpg,"
-            gallery-align="left" gallery-fs-align="right"
-            gallery-thumbs
-            >
         </div>
     </div>
     
@@ -107,6 +121,27 @@ radically aimed at evoking feelings.</p>
     
 
 </div>
+
+
+
+
+<script>
+    var config = {
+        miniId: "minigallery",
+        maxiId: "maxigallery",
+        miniCounterId: "minicounter",
+        maxiCounterId: "maxicounter",
+        fullsize: "https:\/\/radicalpassive.com\/office\/Office.jpg",
+        thumbs: "https:\/\/radicalpassive.com\/office\/Office_huc9c449c472c251bd5b678930e402b2fa_2461728_0x500_resize_q75_box.jpg",
+        thumbs2x: "https:\/\/radicalpassive.com\/office\/Office_huc9c449c472c251bd5b678930e402b2fa_2461728_0x1000_resize_q75_box.jpg",
+        maxAspect: Number("1.5"),
+        maxHeight: 500,
+        keyboardControl: true
+    }
+    window.gallery = new Gallery(config)
+</script>
+
+
 
 
     </main>
