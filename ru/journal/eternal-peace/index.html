@@ -37,12 +37,12 @@
             
             <li class="menu__item">
                 <a class="menu__link "
-                    href="/ru/works/">Работы</a>
+                    href="/ru/projects/">Проекты</a>
             </li>
             
             <li class="menu__item">
                 <a class="menu__link "
-                    href="/ru/news/">Новости</a>
+                    href="/ru/objects/">Объекты</a>
             </li>
             
             <li class="menu__item">
@@ -322,7 +322,7 @@
             </div>
             
 
-            <div class="gallery__image gallery__image_left">
+            <div class="gallery__image gallery__image_left" onclick="window.gallery.showNext()">
                 <img id="minigallery">
             </div>
 
@@ -360,7 +360,7 @@
             <div class="gallery__control gallery__control_collapse" onclick="window.gallery.collapse()"></div>
         </div>
 
-        <div class="gallery__image">
+        <div class="gallery__image" onclick="window.gallery.showNext()">
             <img id="maxigallery">
         </div>
 

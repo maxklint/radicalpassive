@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://radicalpassive.com/works/</loc>
+    <loc>https://radicalpassive.com/projects/</loc>
     <lastmod>2021-08-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://radicalpassive.com/ru/works/"
+                href="https://radicalpassive.com/ru/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://radicalpassive.com/works/"
+                href="https://radicalpassive.com/projects/"
                 />
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/news/</loc>
-    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+    <loc>https://radicalpassive.com/objects/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://radicalpassive.com/ru/news/"
+                href="https://radicalpassive.com/ru/objects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://radicalpassive.com/news/"
+                href="https://radicalpassive.com/objects/"
                 />
   </url>
   
@@ -77,7 +77,7 @@
   
   <url>
     <loc>https://radicalpassive.com/</loc>
-    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -92,32 +92,77 @@
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/works/marx/</loc>
-    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+    <loc>https://radicalpassive.com/objects/camille/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://radicalpassive.com/ru/works/marx/"
+                href="https://radicalpassive.com/ru/objects/camille/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://radicalpassive.com/works/marx/"
+                href="https://radicalpassive.com/objects/camille/"
                 />
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/works/yard/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
+    <loc>https://radicalpassive.com/projects/marx/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://radicalpassive.com/ru/works/yard/"
+                href="https://radicalpassive.com/ru/projects/marx/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://radicalpassive.com/works/yard/"
+                href="https://radicalpassive.com/projects/marx/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/objects/auguste/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/objects/auguste/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/objects/auguste/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/objects/wooden-bench/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/objects/wooden-bench/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/objects/wooden-bench/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/projects/yard/</loc>
+    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/projects/yard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/projects/yard/"
                 />
   </url>
   
@@ -137,212 +182,92 @@
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/works/knomary/</loc>
+    <loc>https://radicalpassive.com/projects/knomary/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://radicalpassive.com/ru/works/knomary/"
+                href="https://radicalpassive.com/ru/projects/knomary/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://radicalpassive.com/works/knomary/"
+                href="https://radicalpassive.com/projects/knomary/"
                 />
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/news/2021-05-06/</loc>
-    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/news/2021-05-06/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/news/2021-05-06/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://radicalpassive.com/news/2021-04-25/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/news/2021-04-25/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/news/2021-04-25/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://radicalpassive.com/news/2021-04-21/</loc>
-    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/news/2021-04-21/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/news/2021-04-21/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://radicalpassive.com/news/2021-04-15/</loc>
-    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/news/2021-04-15/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/news/2021-04-15/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://radicalpassive.com/works/melancholy/</loc>
+    <loc>https://radicalpassive.com/projects/melancholy/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://radicalpassive.com/ru/works/melancholy/"
+                href="https://radicalpassive.com/ru/projects/melancholy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://radicalpassive.com/works/melancholy/"
+                href="https://radicalpassive.com/projects/melancholy/"
                 />
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/news/2021-03-19/</loc>
-    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/news/2021-03-19/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/news/2021-03-19/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://radicalpassive.com/works/touchable-distance/</loc>
+    <loc>https://radicalpassive.com/projects/touchable-distance/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://radicalpassive.com/ru/works/touchable-distance/"
+                href="https://radicalpassive.com/ru/projects/touchable-distance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://radicalpassive.com/works/touchable-distance/"
+                href="https://radicalpassive.com/projects/touchable-distance/"
                 />
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/works/light-industry/</loc>
+    <loc>https://radicalpassive.com/projects/light-industry/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://radicalpassive.com/ru/works/light-industry/"
+                href="https://radicalpassive.com/ru/projects/light-industry/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://radicalpassive.com/works/light-industry/"
+                href="https://radicalpassive.com/projects/light-industry/"
                 />
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/works/labour-and-leisure/</loc>
+    <loc>https://radicalpassive.com/projects/labour-and-leisure/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://radicalpassive.com/ru/works/labour-and-leisure/"
+                href="https://radicalpassive.com/ru/projects/labour-and-leisure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://radicalpassive.com/works/labour-and-leisure/"
+                href="https://radicalpassive.com/projects/labour-and-leisure/"
                 />
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/works/steel-armchair/</loc>
+    <loc>https://radicalpassive.com/objects/steel-armchair/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://radicalpassive.com/ru/works/steel-armchair/"
+                href="https://radicalpassive.com/ru/objects/steel-armchair/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://radicalpassive.com/works/steel-armchair/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://radicalpassive.com/news/2020-11-26/</loc>
-    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/news/2020-11-26/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/news/2020-11-26/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://radicalpassive.com/news/2020-11-24/</loc>
-    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/news/2020-11-24/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/news/2020-11-24/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://radicalpassive.com/news/2020-10-29/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/news/2020-10-29/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/news/2020-10-29/"
+                href="https://radicalpassive.com/objects/steel-armchair/"
                 />
   </url>
   
