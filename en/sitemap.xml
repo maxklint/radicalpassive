@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://radicalpassive.com/projects/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -77,7 +77,7 @@
   
   <url>
     <loc>https://radicalpassive.com/</loc>
-    <lastmod>2021-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -88,6 +88,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://radicalpassive.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/projects/light-industry/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/projects/light-industry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/projects/light-industry/"
                 />
   </url>
   
@@ -182,21 +197,6 @@
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/projects/yard/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/projects/yard/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/projects/yard/"
-                />
-  </url>
-  
-  <url>
     <loc>https://radicalpassive.com/journal/eternal-peace/</loc>
     <lastmod>2021-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -227,23 +227,8 @@
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/projects/melancholy/</loc>
-    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/projects/melancholy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/projects/melancholy/"
-                />
-  </url>
-  
-  <url>
     <loc>https://radicalpassive.com/projects/touchable-distance/</loc>
-    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -257,17 +242,17 @@
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/projects/light-industry/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <loc>https://radicalpassive.com/projects/melancholy/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://radicalpassive.com/ru/projects/light-industry/"
+                href="https://radicalpassive.com/ru/projects/melancholy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://radicalpassive.com/projects/light-industry/"
+                href="https://radicalpassive.com/projects/melancholy/"
                 />
   </url>
   
@@ -298,6 +283,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://radicalpassive.com/objects/steel-armchair/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/projects/yard/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/projects/yard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/projects/yard/"
                 />
   </url>
   
