@@ -48,7 +48,7 @@
   
   <url>
     <loc>https://radicalpassive.com/journal/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -77,7 +77,7 @@
   
   <url>
     <loc>https://radicalpassive.com/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -88,6 +88,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://radicalpassive.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/journal/minsk.alive/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/journal/minsk.alive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/journal/minsk.alive/"
                 />
   </url>
   
