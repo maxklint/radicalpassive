@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://radicalpassive.com/objects/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -77,7 +77,7 @@
   
   <url>
     <loc>https://radicalpassive.com/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -88,6 +88,156 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://radicalpassive.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/objects/wooden-armchair/</loc>
+    <lastmod>2023-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/objects/wooden-armchair/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/objects/wooden-armchair/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/objects/white-candle-holder/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/objects/white-candle-holder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/objects/white-candle-holder/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/objects/a-pair-of-black-candle-holders/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/objects/a-pair-of-black-candle-holders/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/objects/a-pair-of-black-candle-holders/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/objects/camille/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/objects/camille/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/objects/camille/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/objects/auguste/</loc>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/objects/auguste/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/objects/auguste/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/objects/black-candle-holder/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/objects/black-candle-holder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/objects/black-candle-holder/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/objects/steel-armchair/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/objects/steel-armchair/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/objects/steel-armchair/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/objects/wooden-bench/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/objects/wooden-bench/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/objects/wooden-bench/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/objects/one-piece-curtain-rod/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/objects/one-piece-curtain-rod/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/objects/one-piece-curtain-rod/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://radicalpassive.com/objects/elemental-bedside-cabinet/</loc>
+    <lastmod>2022-12-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://radicalpassive.com/ru/objects/elemental-bedside-cabinet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://radicalpassive.com/objects/elemental-bedside-cabinet/"
                 />
   </url>
   
@@ -182,21 +332,6 @@
   </url>
   
   <url>
-    <loc>https://radicalpassive.com/objects/camille/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/objects/camille/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/objects/camille/"
-                />
-  </url>
-  
-  <url>
     <loc>https://radicalpassive.com/projects/coffee-shop-in-minsk/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -223,36 +358,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://radicalpassive.com/projects/marx/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://radicalpassive.com/objects/auguste/</loc>
-    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/objects/auguste/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/objects/auguste/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://radicalpassive.com/objects/wooden-bench/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/objects/wooden-bench/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/objects/wooden-bench/"
                 />
   </url>
   
@@ -328,21 +433,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://radicalpassive.com/projects/labour-and-leisure/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://radicalpassive.com/objects/steel-armchair/</loc>
-    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://radicalpassive.com/ru/objects/steel-armchair/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://radicalpassive.com/objects/steel-armchair/"
                 />
   </url>
   
