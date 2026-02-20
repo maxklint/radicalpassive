@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Radical Passive</title>
-    <link>https://radical-passive.com/tags/</link>
+    <link>https://radicalpassive.eu/tags/</link>
     <description>Recent content in Tags on Radical Passive</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://radical-passive.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://radicalpassive.eu/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
